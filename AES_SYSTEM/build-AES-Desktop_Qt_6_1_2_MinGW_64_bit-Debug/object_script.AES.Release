@@ -1,0 +1,10 @@
+release/crypt.o
+release/decrypt.o
+release/first.o
+release/main.o
+release/mainwindow.o
+release/qrc_ressource.o
+release/moc_crypt.o
+release/moc_decrypt.o
+release/moc_first.o
+release/moc_mainwindow.o

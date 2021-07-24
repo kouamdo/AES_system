@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/ressources">
+        <file>img/photo_2021-07-24_09-28-08.jpg</file>
+        <file>img/images.jpg</file>
+        <file>img/icons8-lock-100.png</file>
+        <file>img/icons8-unlock-100.png</file>
+    </qresource>
+</RCC>
